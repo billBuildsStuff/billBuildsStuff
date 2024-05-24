@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @billBuildsStuff.
-- 👀 I’m interested in Full-Stack Web Development.
-- 🌱 I’m currently learning ANGULAR.JS.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I'm a Full Stack Developer for Chernoff Newman
+- 🌱 I am currently doing Work That Matters
 - 📫 How to reach me bill@williambillings.com
 
 <!---
