@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @billBuildsStuff.
-- 👀 I'm a Full Stack Developer for Chernoff Newman
+- 👀 I'm a Full Stack Developer at Chernoff Newman
 - 🌱 I am currently doing Work That Matters
 - 📫 How to reach me bill@williambillings.com
 
